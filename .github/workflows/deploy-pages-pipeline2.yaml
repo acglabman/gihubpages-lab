@@ -16,5 +16,5 @@ jobs:
         - name: Deploy Pages site
           uses: JamesIves/github-pages-deploy-action@4.1.4
           with:
-            branch: main # gh-pages
+            branch: gh-pages # main
             folder: docs
