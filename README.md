@@ -38,5 +38,6 @@ touch ./.github/workflows/deploy-pages-pipeline.yaml
 
 ```bash
 mkdir -p ./docs/
-touch ./docs/userguide.md
+mkdir -p ./docs-src/
+touch ./docs-src/userguide.md
 ```
